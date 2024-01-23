@@ -17,7 +17,7 @@
 <summary>Баг-репорты веб приложение Я. Самокат</summary>
   
 ![imageup.ru](https://imageup.ru/img233/4623494/snimok-ekrana-2023-11-15-115258.png)
-[![imageup.ru](https://imageup.ru/img194/4709450/snimok-ekrana-2024-01-23-160059.jpg)
+![imageup.ru](https://imageup.ru/img194/4709450/snimok-ekrana-2024-01-23-160059.jpg)
 </details>
 
 [Отчёт по результатам тетирования Самоката](https://docs.google.com/document/d/1uItqtwu6I9vya5_c3fo6eKk453zYSteIJA8dmEGiH0U/edit?usp=sharing) 
